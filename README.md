@@ -1,5 +1,4 @@
-# ios-articles
-Favorite articles on iOS, Obj-C, and Swift
+# Favorite articles on iOS, Obj-C, and Swift
 
 # Fast enumeration
 
