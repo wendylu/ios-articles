@@ -1,5 +1,9 @@
 # Favorite articles on iOS, Obj-C, and Swift
 
+# Objective C Generics
+
+http://drekka.ghost.io/objective-c-generics/
+
 # Fast enumeration
 
 https://www.mikeash.com/pyblog/friday-qa-2010-04-09-comparison-of-objective-c-enumeration-techniques.html
