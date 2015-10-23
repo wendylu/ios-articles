@@ -40,6 +40,10 @@ http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-p
 
 http://useyourloaf.com/blog/continuous-integration-with-xcode-server.html?utm_campaign=iOS_Dev_Weekly_Issue_171&utm_medium=email&utm_source=iOS%2BDev%2BWeekly
 
+# Testing
+
+http://ocmock.org/introduction/
+
 # Scenekit
 
 http://www.weheartswift.com/introduction-scenekit-part-1/?utm_campaign=iOS_Dev_Weekly_Issue_177&utm_medium=email&utm_source=iOS%2BDev%2BWeekly
