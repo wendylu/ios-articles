@@ -1,5 +1,11 @@
 # Favorite articles on iOS, Obj-C, and Swift
 
+# Architecture
+
+Optimistic Models:
+
+https://stanfy.com/blog/optimistic-models-%E2%80%8Ahandling-multiple-interactions-without-server-confirmation/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221
+
 # Objective C Generics
 
 http://drekka.ghost.io/objective-c-generics/
