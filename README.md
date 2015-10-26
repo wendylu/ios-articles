@@ -57,3 +57,7 @@ http://www.weheartswift.com/introduction-scenekit-part-1/?utm_campaign=iOS_Dev_W
 # UIKit
 
 https://www.omnigroup.com/developer/how-to-make-text-in-a-uivisualeffectview-readable-on-any-background?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_216
+
+# Code Signing
+
+http://www.raywenderlich.com/2915/ios-code-signing-under-the-hood
