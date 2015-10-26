@@ -62,3 +62,5 @@ https://www.omnigroup.com/developer/how-to-make-text-in-a-uivisualeffectview-rea
 
 http://www.raywenderlich.com/2915/ios-code-signing-under-the-hood
 
+http://escoz.com/blog/demystifying-ios-certificates-and-provisioning-files/
+
