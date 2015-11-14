@@ -40,6 +40,8 @@ http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/?utm_c
 
 http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used/
 
+https://developer.apple.com/swift/blog/?id=27
+
 Protocol Extensions:
 
 http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_218
