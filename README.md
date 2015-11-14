@@ -38,6 +38,8 @@ http://nsscreencast.com/episodes/187-swift-2-basics?utm_campaign=iOS%2BDev%2BWee
 
 http://colindrake.me/2015/10/05/wrapping-a-c-library-in-a-swift-framework/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_219
 
+http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used/
+
 Protocol Extensions:
 
 http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_218
