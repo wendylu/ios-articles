@@ -1,6 +1,14 @@
 # Favorite articles on iOS, Obj-C, and Swift
 
+# Animation
+
+http://merowing.info/2015/12/details-matter---harnessing-the-power-of-coreanimation
+
 # Architecture
+
+Archiving Structs:
+
+http://danthorpe.me/posts/yap-database.html
 
 Optimistic Models:
 
