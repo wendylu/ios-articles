@@ -50,6 +50,8 @@ http://blog.krzyzanowskim.com/2015/11/13/where-where-may-be-used/
 
 https://developer.apple.com/swift/blog/?id=27
 
+http://sketchytech.blogspot.com/2015/06/swift-what-do-map-and-flatmap-really-do.html
+
 Protocol Extensions:
 
 http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_218
