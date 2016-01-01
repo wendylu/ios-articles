@@ -87,3 +87,7 @@ http://benscheirman.com/2015/11/painless-authentication-on-apple-tv/?utm_campaig
 # Performance
 
 https://code.facebook.com/posts/1675399786008080/optimizing-facebook-for-ios-start-time
+
+# Xcode
+
+http://merowing.info/2015/12/little-things-that-can-make-your-life-easier-in-2016/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_231
