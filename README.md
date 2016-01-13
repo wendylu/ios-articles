@@ -14,6 +14,10 @@ Optimistic Models:
 
 https://stanfy.com/blog/optimistic-models-%E2%80%8Ahandling-multiple-interactions-without-server-confirmation/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221
 
+# Associated Objects
+
+http://iosdevelopertips.com/objective-c/adding-properties-category-using-associated-objects.html
+
 # Objective C Generics
 
 http://drekka.ghost.io/objective-c-generics/
@@ -33,6 +37,14 @@ http://cocoadevcentral.com/articles/000088.php
 http://stackoverflow.com/questions/3220416/how-to-get-and-set-the-wallpaper-in-objective-c-on-mac-osx
 
 https://github.com/liquidx/webviewscreensaver
+
+# Notification Center
+
+http://moreindirection.blogspot.com/2014/08/nsnotificationcenter-swift-and-blocks.html
+
+http://sealedabstract.com/code/nsnotificationcenter-with-blocks-considered-harmful/
+
+http://www.cocoabuilder.com/archive/cocoa/236104-nsnotificationqueue-nsoperationqueue-thread-death.html
 
 # Autolayout
 
