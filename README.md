@@ -28,6 +28,14 @@ https://www.mikeash.com/pyblog/friday-qa-2010-04-09-comparison-of-objective-c-en
 
 https://www.mikeash.com/pyblog/friday-qa-2010-04-09-comparison-of-objective-c-enumeration-techniques.html
 
+# Foundation
+
+https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/Toll-FreeBridgin/Toll-FreeBridgin.html
+
+https://www.mikeash.com/pyblog/friday-qa-2010-04-16-implementing-fast-enumeration.html
+
+https://www.objc.io/issues/7-foundation/collections/
+
 # Mac OSX screensavers and wallpaper:
 
 http://www.mactech.com/articles/mactech/Vol.21/21.06/SaveOurScreens/index.html
