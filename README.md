@@ -14,6 +14,10 @@ Optimistic Models:
 
 https://stanfy.com/blog/optimistic-models-%E2%80%8Ahandling-multiple-interactions-without-server-confirmation/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_221
 
+View Controller Organization:
+
+https://vimeo.com/144116310
+
 # Associated Objects
 
 http://iosdevelopertips.com/objective-c/adding-properties-category-using-associated-objects.html
