@@ -114,6 +114,8 @@ https://code.facebook.com/posts/1675399786008080/optimizing-facebook-for-ios-sta
 
 https://www.objc.io/issues/2-concurrency/common-background-practices/
 
+http://floriankugler.com/2013/05/24/layer-trees-vs-flat-drawing-graphics-performance-across-ios-device-generations/
+
 
 # Xcode
 
