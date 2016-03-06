@@ -80,6 +80,8 @@ https://developer.apple.com/swift/blog/?id=27
 
 http://sketchytech.blogspot.com/2015/06/swift-what-do-map-and-flatmap-really-do.html
 
+http://alisoftware.github.io/swift/2015/10/17/lets-talk-about-monads/
+
 Protocol Extensions:
 
 http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_218
