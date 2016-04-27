@@ -134,3 +134,7 @@ http://floriankugler.com/2013/05/24/layer-trees-vs-flat-drawing-graphics-perform
 # Xcode
 
 http://merowing.info/2015/12/little-things-that-can-make-your-life-easier-in-2016/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS_Dev_Weekly_Issue_231
+
+# Syntax
+
+http://raptureinvenice.com/how-to-memorize-block-syntax/
