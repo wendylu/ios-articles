@@ -138,3 +138,7 @@ http://merowing.info/2015/12/little-things-that-can-make-your-life-easier-in-201
 # Syntax
 
 http://raptureinvenice.com/how-to-memorize-block-syntax/
+
+# Design
+
+http://babich.biz/how-to-use-images-to-improve-ux-for-mobile-apps/
