@@ -96,6 +96,8 @@ Protocol Extensions:
 
 http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_218
 
+https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html
+
 # Continuous Integration/XCode Server
 
 http://useyourloaf.com/blog/continuous-integration-with-xcode-server.html?utm_campaign=iOS_Dev_Weekly_Issue_171&utm_medium=email&utm_source=iOS%2BDev%2BWeekly
