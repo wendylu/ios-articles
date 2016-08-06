@@ -112,6 +112,8 @@ http://masilotti.com/testing-nsurlsession-async/
 
 http://www.weheartswift.com/introduction-scenekit-part-1/?utm_campaign=iOS_Dev_Weekly_Issue_177&utm_medium=email&utm_source=iOS%2BDev%2BWeekly
 
+https://medium.com/@avihay/amazing-physically-based-rendering-using-the-new-ios-10-scenekit-2489e43f7021#.tp8chp7vm
+
 # UIKit
 
 https://www.omnigroup.com/developer/how-to-make-text-in-a-uivisualeffectview-readable-on-any-background?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_216
