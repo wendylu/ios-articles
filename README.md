@@ -4,11 +4,19 @@
 
 http://merowing.info/2015/12/details-matter---harnessing-the-power-of-coreanimation
 
+Control points:
+
+http://netcetera.org/camtf-playground.html
+
 # Architecture
 
 Archiving Structs:
 
 http://danthorpe.me/posts/yap-database.html
+
+Networking:
+
+http://szulctomasz.com/how-do-I-build-a-network-layer/
 
 Optimistic Models:
 
