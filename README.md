@@ -128,6 +128,8 @@ https://www.omnigroup.com/developer/how-to-make-text-in-a-uivisualeffectview-rea
 
 http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html
 
+http://nshint.io/blog/2015/08/17/autolayout-breakpoints/
+
 # Code Signing
 
 http://www.raywenderlich.com/2915/ios-code-signing-under-the-hood
