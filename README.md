@@ -106,6 +106,10 @@ http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-p
 
 https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html
 
+# Build System
+
+http://holko.pl/2016/10/18/dsym-debug/
+
 # Continuous Integration/XCode Server
 
 http://useyourloaf.com/blog/continuous-integration-with-xcode-server.html?utm_campaign=iOS_Dev_Weekly_Issue_171&utm_medium=email&utm_source=iOS%2BDev%2BWeekly
