@@ -144,6 +144,10 @@ http://aplus.rs/2016/masterclass-code-signing/
 
 http://pewpewthespells.com/blog/migrating_code_signing.html?
 
+# Swift Rewrites
+
+https://realm.io/news/tryswift-amy-dyer-incremental-swift/
+
 # TvOS
 
 http://benscheirman.com/2015/11/painless-authentication-on-apple-tv/?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_223
