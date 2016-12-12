@@ -100,6 +100,8 @@ https://www.natashatherobot.com/using-swift-extensions/
 
 http://johnpatrickmorgan.github.io/2016/05/11/URLPatternMatching/
 
+https://oleb.net/blog/2016/12/optionals-string-interpolation
+
 Protocol Extensions:
 
 http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_218
