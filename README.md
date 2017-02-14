@@ -146,6 +146,10 @@ http://aplus.rs/2016/masterclass-code-signing/
 
 http://pewpewthespells.com/blog/migrating_code_signing.html?
 
+# SpriteKit
+
+http://sound-of-silence.com/?article=20170205&utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_287
+
 # Swift Rewrites
 
 https://realm.io/news/tryswift-amy-dyer-incremental-swift/
