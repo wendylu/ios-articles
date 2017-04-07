@@ -138,6 +138,8 @@ http://useyourloaf.com/blog/split-views-and-unexpected-keyboards.html
 
 http://nshint.io/blog/2015/08/17/autolayout-breakpoints/
 
+https://littlebitesofcocoa.com/306-customizing-collection-view-cell-insertion-animations
+
 # Code Signing
 
 http://www.raywenderlich.com/2915/ios-code-signing-under-the-hood
