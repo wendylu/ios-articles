@@ -104,11 +104,13 @@ https://oleb.net/blog/2016/12/optionals-string-interpolation
 
 https://oleb.net/blog/2017/03/dump-as-equatable-safeguard/
 
-Protocol Extensions:
+Protocols (Extensions, associated types, etc):
 
 http://www.captechconsulting.com/blogs/ios-9-tutorial-series-protocol-oriented-programming-with-uikit?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=web&utm_source=iOS_Dev_Weekly_Issue_218
 
 https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html
+
+https://blog.bobthedeveloper.io/generic-protocols-with-associated-type-7e2b6e079ee2
 
 # Build System
 
