@@ -112,6 +112,10 @@ https://www.cocoawithlove.com/blog/2016/07/12/type-checker-issues.html
 
 https://blog.bobthedeveloper.io/generic-protocols-with-associated-type-7e2b6e079ee2
 
+DSLs:
+
+https://www.swiftbysundell.com/posts/building-dsls-in-swift?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B374
+
 # Build System
 
 http://holko.pl/2016/10/18/dsym-debug/
