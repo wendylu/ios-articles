@@ -30,6 +30,10 @@ https://vimeo.com/144116310
 
 http://iosdevelopertips.com/objective-c/adding-properties-category-using-associated-objects.html
 
+# Core ML
+
+https://machinethink.net/blog/coreml-training-part1/
+
 # Objective C 
 
 https://pspdfkit.com/blog/2016/swifty-objective-c/
